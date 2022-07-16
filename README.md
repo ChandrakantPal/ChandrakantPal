@@ -1,5 +1,7 @@
 ### Hi there 👋
-`const name = 'Chandrakant Pal'`
+```ts 
+const name = 'Chandrakant Pal'
+```
 <!--
 **ChandrakantPal/ChandrakantPal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
