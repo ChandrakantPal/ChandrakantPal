@@ -8,11 +8,15 @@ let techInLoveWith = ['Javascript', 'ReactJS',
 //still pushing more elements to this array
 
 let skills = {
-  'Javascript': Math.round(8 / 10) // ... and learnig
-  'ReactJS': Math.round(8 / 10) // ... and learnig 
-  'NextJS': Math.round(8 / 10) // ... and learnig 
-  'Typescript': Math.round(8 / 10) // ... and learnig 
-
+  'Javascript': Math.round(8 / 10), // ... and learnig
+  'ReactJS': Math.round(8 / 10), // ... and learnig 
+  'NextJS': Math.round(8 / 10), // ... and learnig 
+  'Typescript': Math.round(8 / 10), // ... and learnig 
+  'NodeJS': Math.round(8 / 10), // ... and learnig 
+  'ReactNative': Math.round(7.5 / 10), // ... and learnig 
+  'GraphQL': Math.round(7.5 / 10), // ... and learnig 
+  'MongoDB': Math.round(7 / 10), // ... and learnig 
+  'PostgreSQL': Math.round(5 / 10) // ... and learnig 
 }
 ```
 <!--
