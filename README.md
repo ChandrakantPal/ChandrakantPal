@@ -2,9 +2,11 @@
 ```ts 
 const name = 'Chandrakant Pal'
 
-let techInLoveWith = ['Javascript', 'ReactJS',
-  'NextJS', 'Typescript', 'React Native',
-  'NodeJS', 'GraphQL', 'MongoDB', 'PostgreSQL']
+let techInLoveWith = [
+  'Javascript', 'ReactJS', 'NextJS',
+  'Typescript', 'TailwindCSS', 'React Native',
+  'NodeJS', 'GraphQL', 'MongoDB', 'PostgreSQL'
+]
 //still pushing more elements to this array
 
 let skills = {
