@@ -11,6 +11,8 @@ let skills = {
   'Javascript': Math.round(8 / 10) // ... and learnig
   'ReactJS': Math.round(8 / 10) // ... and learnig 
   'NextJS': Math.round(8 / 10) // ... and learnig 
+  'Typescript': Math.round(8 / 10) // ... and learnig 
+
 }
 ```
 <!--
