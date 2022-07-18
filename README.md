@@ -8,8 +8,9 @@ let techInLoveWith = ['Javascript', 'ReactJS',
 //still pushing more elements to this array
 
 let skills = {
-  'Javascript💛': Math.round(8 / 10) // ... and learnig
-  'ReactJS⚛': Math.round(8 / 10) // ... and learnig 
+  'Javascript': Math.round(8 / 10) // ... and learnig
+  'ReactJS': Math.round(8 / 10) // ... and learnig 
+  'NextJS': Math.round(8 / 10) // ... and learnig 
 }
 ```
 <!--
