@@ -28,6 +28,10 @@ I am a self-taught  software developer mostly focused on web development and web
 and building user-centric products with excellent user experience.
 
 I am looking to work on open source projects involving React Typescript.
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ChandrakantPal&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandrakantPal&layout=compact&theme=merko&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <!--
 **ChandrakantPal/ChandrakantPal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
