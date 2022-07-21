@@ -23,6 +23,11 @@ let skills = {
   'PostgreSQL': Math.round(5 / 10) // ... and learnig 
 }
 ```
+
+I am a self-taught  software developer mostly focused on web development and web technologies in general,
+and building user-centric products with excellent user experience.
+
+I am looking to work on open source projects involving React Typescript.
 <!--
 **ChandrakantPal/ChandrakantPal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
