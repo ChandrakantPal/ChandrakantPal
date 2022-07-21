@@ -2,12 +2,8 @@
 ```ts 
 const name = 'Chandrakant Pal'
 
-let techInLoveWith = [
-  'Javascript', 'ReactJS', 'NextJS',
-  'Typescript', 'TailwindCSS', 'React Native',
-  'NodeJS', 'GraphQL', 'MongoDB', 'PostgreSQL'
-]
-//still pushing more elements to this array
+let techInLoveWith = ['Javascript', 'ReactJS', 'NextJS', 'Typescript', 'TailwindCSS', 'React Native', 'NodeJS',
+  'GraphQL', 'MongoDB', 'PostgreSQL'] //still pushing more elements to this array
 
 let currentlyLearning = 'Java'  
 
